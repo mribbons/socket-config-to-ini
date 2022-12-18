@@ -1,0 +1,19 @@
+{
+  "name": "socket-config-to-ini",
+  "version": "1.0.0",
+  "description": "Convert Socket Supply ssc.config to socket.ini",
+  "main": "conf-to-ini.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mribbons/socket-config-to-ini.git"
+  },
+  "author": "Michael Ribbons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mribbons/socket-config-to-ini/issues"
+  },
+  "homepage": "https://github.com/mribbons/socket-config-to-ini#readme"
+}
